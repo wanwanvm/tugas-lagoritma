@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1608553718 source:d:\kuliah online\semester 5\analisis algoritma\tubes\mergebubblesortv2\main.cpp
+	"header.h"
+
+1608553718 d:\kuliah online\semester 5\analisis algoritma\tubes\mergebubblesortv2\header.h
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<chrono>
+
+1608554234 source:d:\kuliah online\semester 5\analisis algoritma\tubes\mergebubblesortv2\source.cpp
+	"header.h"
+
+1637345588 source:c:\users\wanwa\downloads\tugasbesaraka-main\tugasbesaraka-main\source code\mergebubblesortv2\main.cpp
+	"header.h"
+
+1637345588 c:\users\wanwa\downloads\tugasbesaraka-main\tugasbesaraka-main\source code\mergebubblesortv2\header.h
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<chrono>
+
+1637345588 source:c:\users\wanwa\downloads\tugasbesaraka-main\tugasbesaraka-main\source code\mergebubblesortv2\source.cpp
+	"header.h"
+
+1637345588 source:e:\kampus\algorithms and complexity (algoritma dan kompleksitas) # 01mkme001\tugas komparasi\source code\komparasi marge dan bubble\main.cpp
+	"header.h"
+
+1637345588 e:\kampus\algorithms and complexity (algoritma dan kompleksitas) # 01mkme001\tugas komparasi\source code\komparasi marge dan bubble\header.h
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<chrono>
+
+1637366754 source:e:\kampus\algorithms and complexity (algoritma dan kompleksitas) # 01mkme001\tugas komparasi\source code\komparasi marge dan bubble\source.cpp
+	"header.h"
+
